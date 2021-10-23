@@ -1,0 +1,2829 @@
+--------------------------------------------------------------------------------
+// https://www.cbs.com/shows/bull/
+// https://www.cbs.com/shows/bull/xhr/episodes/page/0/size/18/xs/0/season/
+
+{
+    "result": {
+        "title": "Full Episodes",
+        "data": [{
+            "type": "Full Episode",
+            "title": "Bull - Bull Undone",
+            "series_title": "Bull",
+            "label": "Bull Undone",
+            "content_id": "iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY",
+            "airdate": "Oct 21, 2021",
+            "airdate_ts": 1634868000000,
+            "airdate_iso": "2021-10-21T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "6",
+            "episode_number": "3",
+            "duration": "42min ",
+            "duration_raw": 2547,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/12\/1961023555919\/CBS_BULL_603_NO_LOGO_942654_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/12\/1961023555919\/CBS_BULL_603_NO_LOGO_942654_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/12\/1961023555919\/CBS_BULL_603_NO_LOGO_942654_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/12\/1961023555919\/CBS_BULL_603_NO_LOGO_942654_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/12\/1961023555919\/CBS_BULL_603_NO_LOGO_942654_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY\/bull-bull-undone\/",
+            "app_url": "\/shows\/bull\/video\/iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "AVAILABLE",
+            "expiry_date": "",
+            "is_paid_content": false,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1961082435977,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-10-21T19:00:00-07:00",
+                "airdate_tv": "2021-10-21",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY",
+                "contentUrl": "\/shows\/bull\/video\/iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY\/bull-bull-undone\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "3",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": true,
+                "oztamMediaId": null,
+                "pid": "xvhIoTj6ay6U",
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "6",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "FREE",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2547,
+                "videoPageURL": "\/shows\/bull\/video\/iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY\/bull-bull-undone\/",
+                "videoTitle": "Bull - Bull Undone",
+                "label": "Bull Undone",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 1,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY\/bull-bull-undone\/",
+            "episode_title": "Bull Undone",
+            "feature": "2021-10-21T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/10\/12\/1961023555919\/CBS_BULL_603_NO_LOGO_942654_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|1|Bull|Bull Undone|6|3|Oct 21, 2021|vod:full-episodes||||t|0",
+            "dataTracking": "|Bull|S6|Ep3|Oct 21, 2021|Bull Undone|19|free|FREE|AVAILABLE|",
+            "displayTitle": "Bull Undone",
+            "lockLevel": "none"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Espionage",
+            "series_title": "Bull",
+            "label": "Espionage",
+            "content_id": "oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb",
+            "airdate": "Oct 14, 2021",
+            "airdate_ts": 1634263200000,
+            "airdate_iso": "2021-10-14T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "6",
+            "episode_number": "2",
+            "duration": "43min ",
+            "duration_raw": 2602,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/06\/1959087683766\/CBS_BULL_602_NO_LOGO_914495_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/06\/1959087683766\/CBS_BULL_602_NO_LOGO_914495_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/06\/1959087683766\/CBS_BULL_602_NO_LOGO_914495_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/06\/1959087683766\/CBS_BULL_602_NO_LOGO_914495_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/10\/06\/1959087683766\/CBS_BULL_602_NO_LOGO_914495_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb\/bull-espionage\/",
+            "app_url": "\/shows\/bull\/video\/oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "AVAILABLE",
+            "expiry_date": "",
+            "is_paid_content": false,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1959091779912,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-10-14T19:00:00-07:00",
+                "airdate_tv": "2021-10-14",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb",
+                "contentUrl": "\/shows\/bull\/video\/oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb\/bull-espionage\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "2",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": true,
+                "oztamMediaId": null,
+                "pid": "K4m1v5vNGwBw",
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "6",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "FREE",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2602,
+                "videoPageURL": "\/shows\/bull\/video\/oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb\/bull-espionage\/",
+                "videoTitle": "Bull - Espionage",
+                "label": "Espionage",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 2,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb\/bull-espionage\/",
+            "episode_title": "Espionage",
+            "feature": "2021-10-14T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/10\/06\/1959087683766\/CBS_BULL_602_NO_LOGO_914495_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|2|Bull|Espionage|6|2|Oct 14, 2021|vod:full-episodes||||t|0",
+            "dataTracking": "|Bull|S6|Ep2|Oct 14, 2021|Espionage|19|free|FREE|AVAILABLE|",
+            "displayTitle": "Espionage",
+            "lockLevel": "none"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Gone",
+            "series_title": "Bull",
+            "label": "Gone",
+            "content_id": "TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw",
+            "airdate": "Oct 07, 2021",
+            "airdate_ts": 1633662000000,
+            "airdate_iso": "2021-10-07T20:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "6",
+            "episode_number": "1",
+            "duration": "42min ",
+            "duration_raw": 2526,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/29\/1954671683728\/CBS_BULL_601_NO_LOGO_878823_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/29\/1954671683728\/CBS_BULL_601_NO_LOGO_878823_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/29\/1954671683728\/CBS_BULL_601_NO_LOGO_878823_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/29\/1954671683728\/CBS_BULL_601_NO_LOGO_878823_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/29\/1954671683728\/CBS_BULL_601_NO_LOGO_878823_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw\/bull-gone\/",
+            "app_url": "\/shows\/bull\/video\/TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "AVAILABLE",
+            "expiry_date": "",
+            "is_paid_content": false,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1954687555690,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-10-07T20:00:00-07:00",
+                "airdate_tv": "2021-10-07",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw",
+                "contentUrl": "\/shows\/bull\/video\/TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw\/bull-gone\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "1",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": true,
+                "oztamMediaId": null,
+                "pid": "VIYZG_fIa1VD",
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "6",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "FREE",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2526,
+                "videoPageURL": "\/shows\/bull\/video\/TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw\/bull-gone\/",
+                "videoTitle": "Bull - Gone",
+                "label": "Gone",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 3,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw\/bull-gone\/",
+            "episode_title": "Gone",
+            "feature": "2021-10-07T20:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/09\/29\/1954671683728\/CBS_BULL_601_NO_LOGO_878823_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|3|Bull|Gone|6|1|Oct 07, 2021|vod:full-episodes||||t|0",
+            "dataTracking": "|Bull|S6|Ep1|Oct 07, 2021|Gone|19|free|FREE|AVAILABLE|",
+            "displayTitle": "Gone",
+            "lockLevel": "none"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - A Friend in Need",
+            "series_title": "Bull",
+            "label": "A Friend in Need",
+            "content_id": "87yML4GtKcFp15eili1_ejsCF2r4TKRW",
+            "airdate": "May 17, 2021",
+            "airdate_ts": 1621303200000,
+            "airdate_iso": "2021-05-17T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "16",
+            "duration": "43min ",
+            "duration_raw": 2594,
+            "rating": "TV-14 D, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/11\/1895836739635\/CBS_BULL_516_NO_LOGO_668974_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/11\/1895836739635\/CBS_BULL_516_NO_LOGO_668974_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/11\/1895836739635\/CBS_BULL_516_NO_LOGO_668974_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/11\/1895836739635\/CBS_BULL_516_NO_LOGO_668974_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/11\/1895836739635\/CBS_BULL_516_NO_LOGO_668974_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/87yML4GtKcFp15eili1_ejsCF2r4TKRW\/bull-a-friend-in-need\/",
+            "app_url": "\/shows\/bull\/video\/87yML4GtKcFp15eili1_ejsCF2r4TKRW\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1895839811683,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-05-17T19:00:00-07:00",
+                "airdate_tv": "2021-05-17",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "87yML4GtKcFp15eili1_ejsCF2r4TKRW",
+                "contentUrl": "\/shows\/bull\/video\/87yML4GtKcFp15eili1_ejsCF2r4TKRW\/bull-a-friend-in-need\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "16",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2594,
+                "videoPageURL": "\/shows\/bull\/video\/87yML4GtKcFp15eili1_ejsCF2r4TKRW\/bull-a-friend-in-need\/",
+                "videoTitle": "Bull - A Friend in Need",
+                "label": "A Friend in Need",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 4,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/87yML4GtKcFp15eili1_ejsCF2r4TKRW\/bull-a-friend-in-need\/",
+            "episode_title": "A Friend in Need",
+            "feature": "2021-05-17T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/05\/11\/1895836739635\/CBS_BULL_516_NO_LOGO_668974_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|4|Bull|A Friend in Need|5|16|May 17, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep16|May 17, 2021|A Friend in Need|19|pay|PAID|PREMIUM|",
+            "displayTitle": "A Friend in Need",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Snatchback",
+            "series_title": "Bull",
+            "label": "Snatchback",
+            "content_id": "RCat5G_UD0naevvmqKsyzOdaGNNEQMLI",
+            "airdate": "May 10, 2021",
+            "airdate_ts": 1620698400000,
+            "airdate_iso": "2021-05-10T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "15",
+            "duration": "43min ",
+            "duration_raw": 2599,
+            "rating": "TV-14 D, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/02\/1892362819616\/CBS_BULL_515_NO_LOGO_661878_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/02\/1892362819616\/CBS_BULL_515_NO_LOGO_661878_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/02\/1892362819616\/CBS_BULL_515_NO_LOGO_661878_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/02\/1892362819616\/CBS_BULL_515_NO_LOGO_661878_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/05\/02\/1892362819616\/CBS_BULL_515_NO_LOGO_661878_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/RCat5G_UD0naevvmqKsyzOdaGNNEQMLI\/bull-snatchback\/",
+            "app_url": "\/shows\/bull\/video\/RCat5G_UD0naevvmqKsyzOdaGNNEQMLI\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1892360771780,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-05-10T19:00:00-07:00",
+                "airdate_tv": "2021-05-10",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "RCat5G_UD0naevvmqKsyzOdaGNNEQMLI",
+                "contentUrl": "\/shows\/bull\/video\/RCat5G_UD0naevvmqKsyzOdaGNNEQMLI\/bull-snatchback\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "15",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2599,
+                "videoPageURL": "\/shows\/bull\/video\/RCat5G_UD0naevvmqKsyzOdaGNNEQMLI\/bull-snatchback\/",
+                "videoTitle": "Bull - Snatchback",
+                "label": "Snatchback",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 5,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/RCat5G_UD0naevvmqKsyzOdaGNNEQMLI\/bull-snatchback\/",
+            "episode_title": "Snatchback",
+            "feature": "2021-05-10T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/05\/02\/1892362819616\/CBS_BULL_515_NO_LOGO_661878_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|5|Bull|Snatchback|5|15|May 10, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep15|May 10, 2021|Snatchback|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Snatchback",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Under The Influence",
+            "series_title": "Bull",
+            "label": "Under The Influence",
+            "content_id": "6FeVLzw16O0GT4ULsasfdy2bz1tmyV22",
+            "airdate": "May 03, 2021",
+            "airdate_ts": 1620093600000,
+            "airdate_iso": "2021-05-03T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "14",
+            "duration": "43min ",
+            "duration_raw": 2607,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/24\/1889477699526\/CBS_BULL_514_NO_LOGO_648129_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/24\/1889477699526\/CBS_BULL_514_NO_LOGO_648129_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/24\/1889477699526\/CBS_BULL_514_NO_LOGO_648129_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/24\/1889477699526\/CBS_BULL_514_NO_LOGO_648129_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/24\/1889477699526\/CBS_BULL_514_NO_LOGO_648129_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/6FeVLzw16O0GT4ULsasfdy2bz1tmyV22\/bull-under-the-influence\/",
+            "app_url": "\/shows\/bull\/video\/6FeVLzw16O0GT4ULsasfdy2bz1tmyV22\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1889476163838,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-05-03T19:00:00-07:00",
+                "airdate_tv": "2021-05-03",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "6FeVLzw16O0GT4ULsasfdy2bz1tmyV22",
+                "contentUrl": "\/shows\/bull\/video\/6FeVLzw16O0GT4ULsasfdy2bz1tmyV22\/bull-under-the-influence\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "14",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2607,
+                "videoPageURL": "\/shows\/bull\/video\/6FeVLzw16O0GT4ULsasfdy2bz1tmyV22\/bull-under-the-influence\/",
+                "videoTitle": "Bull - Under The Influence",
+                "label": "Under The Influence",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 6,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/6FeVLzw16O0GT4ULsasfdy2bz1tmyV22\/bull-under-the-influence\/",
+            "episode_title": "Under The Influence",
+            "feature": "2021-05-03T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/04\/24\/1889477699526\/CBS_BULL_514_NO_LOGO_648129_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|6|Bull|Under The Influence|5|14|May 03, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep14|May 03, 2021|Under The Influence|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Under The Influence",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - The Law of the Jungle",
+            "series_title": "Bull",
+            "label": "The Law of the Jungle",
+            "content_id": "3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C",
+            "airdate": "Apr 26, 2021",
+            "airdate_ts": 1619488800000,
+            "airdate_iso": "2021-04-26T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "13",
+            "duration": "42min ",
+            "duration_raw": 2523,
+            "rating": "TV-14 D, V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/22\/1888431171804\/CBS_BULL_513_NO_LOGO_637847_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/22\/1888431171804\/CBS_BULL_513_NO_LOGO_637847_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/22\/1888431171804\/CBS_BULL_513_NO_LOGO_637847_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/22\/1888431171804\/CBS_BULL_513_NO_LOGO_637847_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/22\/1888431171804\/CBS_BULL_513_NO_LOGO_637847_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C\/bull-the-law-of-the-jungle\/",
+            "app_url": "\/shows\/bull\/video\/3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1888429635853,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-04-26T19:00:00-07:00",
+                "airdate_tv": "2021-04-26",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C",
+                "contentUrl": "\/shows\/bull\/video\/3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C\/bull-the-law-of-the-jungle\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "13",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2523,
+                "videoPageURL": "\/shows\/bull\/video\/3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C\/bull-the-law-of-the-jungle\/",
+                "videoTitle": "Bull - The Law of the Jungle",
+                "label": "The Law of the Jungle",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 7,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/3AnNfK_J6IP_qF5mmeJ_UYIpTlzqHR1C\/bull-the-law-of-the-jungle\/",
+            "episode_title": "The Law of the Jungle",
+            "feature": "2021-04-26T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/04\/22\/1888431171804\/CBS_BULL_513_NO_LOGO_637847_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|7|Bull|The Law of the Jungle|5|13|Apr 26, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep13|Apr 26, 2021|The Law of the Jungle|19|pay|PAID|PREMIUM|",
+            "displayTitle": "The Law of the Jungle",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Evidence to the Contrary",
+            "series_title": "Bull",
+            "label": "Evidence to the Contrary",
+            "content_id": "6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok",
+            "airdate": "Apr 19, 2021",
+            "airdate_ts": 1618884001000,
+            "airdate_iso": "2021-04-19T19:00:01-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "12",
+            "duration": "43min ",
+            "duration_raw": 2604,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/15\/1885677635517\/CBS_BULL_512_NO_LOGO_631387_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/15\/1885677635517\/CBS_BULL_512_NO_LOGO_631387_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/15\/1885677635517\/CBS_BULL_512_NO_LOGO_631387_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/15\/1885677635517\/CBS_BULL_512_NO_LOGO_631387_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/15\/1885677635517\/CBS_BULL_512_NO_LOGO_631387_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok\/bull-evidence-to-the-contrary\/",
+            "app_url": "\/shows\/bull\/video\/6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1885674051925,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-04-19T19:00:01-07:00",
+                "airdate_tv": "2021-04-19",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok",
+                "contentUrl": "\/shows\/bull\/video\/6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok\/bull-evidence-to-the-contrary\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "12",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2604,
+                "videoPageURL": "\/shows\/bull\/video\/6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok\/bull-evidence-to-the-contrary\/",
+                "videoTitle": "Bull - Evidence to the Contrary",
+                "label": "Evidence to the Contrary",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 8,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/6XXzgEfJeBZhwspSkb4lzH0HfkzCzRok\/bull-evidence-to-the-contrary\/",
+            "episode_title": "Evidence to the Contrary",
+            "feature": "2021-04-19T19:00:01-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/04\/15\/1885677635517\/CBS_BULL_512_NO_LOGO_631387_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|8|Bull|Evidence to the Contrary|5|12|Apr 19, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep12|Apr 19, 2021|Evidence to the Contrary|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Evidence to the Contrary",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Truth and Reconciliation",
+            "series_title": "Bull",
+            "label": "Truth and Reconciliation",
+            "content_id": "y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1",
+            "airdate": "Apr 12, 2021",
+            "airdate_ts": 1618279200000,
+            "airdate_iso": "2021-04-12T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "11",
+            "duration": "43min ",
+            "duration_raw": 2567,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/08\/1882836547857\/CBS_BULL_511_NO_LOGO_623198_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/08\/1882836547857\/CBS_BULL_511_NO_LOGO_623198_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/08\/1882836547857\/CBS_BULL_511_NO_LOGO_623198_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/08\/1882836547857\/CBS_BULL_511_NO_LOGO_623198_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/04\/08\/1882836547857\/CBS_BULL_511_NO_LOGO_623198_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1\/bull-truth-and-reconciliation\/",
+            "app_url": "\/shows\/bull\/video\/y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1882836035773,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-04-12T19:00:00-07:00",
+                "airdate_tv": "2021-04-12",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1",
+                "contentUrl": "\/shows\/bull\/video\/y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1\/bull-truth-and-reconciliation\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "11",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2567,
+                "videoPageURL": "\/shows\/bull\/video\/y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1\/bull-truth-and-reconciliation\/",
+                "videoTitle": "Bull - Truth and Reconciliation",
+                "label": "Truth and Reconciliation",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 9,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/y8_Fmi01_h5XSNh80vQKAPC4l49yD3g1\/bull-truth-and-reconciliation\/",
+            "episode_title": "Truth and Reconciliation",
+            "feature": "2021-04-12T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/04\/08\/1882836547857\/CBS_BULL_511_NO_LOGO_623198_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|9|Bull|Truth and Reconciliation|5|11|Apr 12, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep11|Apr 12, 2021|Truth and Reconciliation|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Truth and Reconciliation",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Boy Who Cried Murder",
+            "series_title": "Bull",
+            "label": "Boy Who Cried Murder",
+            "content_id": "yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1",
+            "airdate": "Mar 15, 2021",
+            "airdate_ts": 1615860000000,
+            "airdate_iso": "2021-03-15T19:00:00-07:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "10",
+            "duration": "43min ",
+            "duration_raw": 2585,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/03\/11\/1872170563972\/CBS_BULL_510_NO_LOGO_597809_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/03\/11\/1872170563972\/CBS_BULL_510_NO_LOGO_597809_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/03\/11\/1872170563972\/CBS_BULL_510_NO_LOGO_597809_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/03\/11\/1872170563972\/CBS_BULL_510_NO_LOGO_597809_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/03\/11\/1872170563972\/CBS_BULL_510_NO_LOGO_597809_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1\/bull-boy-who-cried-murder\/",
+            "app_url": "\/shows\/bull\/video\/yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1873712707513,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-03-15T19:00:00-07:00",
+                "airdate_tv": "2021-03-15",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1",
+                "contentUrl": "\/shows\/bull\/video\/yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1\/bull-boy-who-cried-murder\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "10",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2585,
+                "videoPageURL": "\/shows\/bull\/video\/yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1\/bull-boy-who-cried-murder\/",
+                "videoTitle": "Bull - Boy Who Cried Murder",
+                "label": "Boy Who Cried Murder",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 10,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/yoxVPQj802IvWM5sWRf8ERR4YE_bYrx1\/bull-boy-who-cried-murder\/",
+            "episode_title": "Boy Who Cried Murder",
+            "feature": "2021-03-15T19:00:00-07:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/03\/11\/1872170563972\/CBS_BULL_510_NO_LOGO_597809_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|10|Bull|Boy Who Cried Murder|5|10|Mar 15, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep10|Mar 15, 2021|Boy Who Cried Murder|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Boy Who Cried Murder",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - The Bad Client",
+            "series_title": "Bull",
+            "label": "The Bad Client",
+            "content_id": "B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP",
+            "airdate": "Feb 22, 2021",
+            "airdate_ts": 1614049200000,
+            "airdate_iso": "2021-02-22T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "9",
+            "duration": "43min ",
+            "duration_raw": 2604,
+            "rating": "TV-14 D, V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/18\/1863175747774\/CBS_BULL_509_NO_LOGO_602410_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/18\/1863175747774\/CBS_BULL_509_NO_LOGO_602410_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/18\/1863175747774\/CBS_BULL_509_NO_LOGO_602410_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/18\/1863175747774\/CBS_BULL_509_NO_LOGO_602410_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/18\/1863175747774\/CBS_BULL_509_NO_LOGO_602410_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP\/bull-the-bad-client\/",
+            "app_url": "\/shows\/bull\/video\/B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1875125315511,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-02-22T19:00:00-08:00",
+                "airdate_tv": "2021-02-22",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP",
+                "contentUrl": "\/shows\/bull\/video\/B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP\/bull-the-bad-client\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "9",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2604,
+                "videoPageURL": "\/shows\/bull\/video\/B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP\/bull-the-bad-client\/",
+                "videoTitle": "Bull - The Bad Client",
+                "label": "The Bad Client",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 11,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/B_ivYGc2xP3XLEKI4rVL7zEqb6JyA_RP\/bull-the-bad-client\/",
+            "episode_title": "The Bad Client",
+            "feature": "2021-02-22T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/02\/18\/1863175747774\/CBS_BULL_509_NO_LOGO_602410_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|11|Bull|The Bad Client|5|9|Feb 22, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep9|Feb 22, 2021|The Bad Client|19|pay|PAID|PREMIUM|",
+            "displayTitle": "The Bad Client",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Cloak and Beaker",
+            "series_title": "Bull",
+            "label": "Cloak and Beaker",
+            "content_id": "CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W",
+            "airdate": "Feb 08, 2021",
+            "airdate_ts": 1612839600000,
+            "airdate_iso": "2021-02-08T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "8",
+            "duration": "43min ",
+            "duration_raw": 2604,
+            "rating": "TV-14 L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/03\/1852708931890\/CBS_BULL_508_NO_LOGO_496876_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/03\/1852708931890\/CBS_BULL_508_NO_LOGO_496876_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/03\/1852708931890\/CBS_BULL_508_NO_LOGO_496876_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/03\/1852708931890\/CBS_BULL_508_NO_LOGO_496876_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/02\/03\/1852708931890\/CBS_BULL_508_NO_LOGO_496876_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W\/bull-cloak-and-beaker\/",
+            "app_url": "\/shows\/bull\/video\/CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1852711491692,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-02-08T19:00:00-08:00",
+                "airdate_tv": "2021-02-08",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W",
+                "contentUrl": "\/shows\/bull\/video\/CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W\/bull-cloak-and-beaker\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "8",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2604,
+                "videoPageURL": "\/shows\/bull\/video\/CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W\/bull-cloak-and-beaker\/",
+                "videoTitle": "Bull - Cloak and Beaker",
+                "label": "Cloak and Beaker",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 12,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/CuoJ7F0N8YLPgADYXaOBL7Zbtvc4TE1W\/bull-cloak-and-beaker\/",
+            "episode_title": "Cloak and Beaker",
+            "feature": "2021-02-08T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/02\/03\/1852708931890\/CBS_BULL_508_NO_LOGO_496876_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|12|Bull|Cloak and Beaker|5|8|Feb 08, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep8|Feb 08, 2021|Cloak and Beaker|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Cloak and Beaker",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - The Head of the Goat",
+            "series_title": "Bull",
+            "label": "The Head of the Goat",
+            "content_id": "LIOKgW36OHupJJ_O1LemGGey6ngUBhY8",
+            "airdate": "Jan 25, 2021",
+            "airdate_ts": 1611630000000,
+            "airdate_iso": "2021-01-25T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "7",
+            "duration": "43min ",
+            "duration_raw": 2600,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/20\/1846109251940\/CBS_BULL_507_NO_LOGO_445832_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/20\/1846109251940\/CBS_BULL_507_NO_LOGO_445832_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/20\/1846109251940\/CBS_BULL_507_NO_LOGO_445832_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/20\/1846109251940\/CBS_BULL_507_NO_LOGO_445832_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/20\/1846109251940\/CBS_BULL_507_NO_LOGO_445832_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/LIOKgW36OHupJJ_O1LemGGey6ngUBhY8\/bull-the-head-of-the-goat\/",
+            "app_url": "\/shows\/bull\/video\/LIOKgW36OHupJJ_O1LemGGey6ngUBhY8\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1846112835517,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-01-25T19:00:00-08:00",
+                "airdate_tv": "2021-01-25",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "LIOKgW36OHupJJ_O1LemGGey6ngUBhY8",
+                "contentUrl": "\/shows\/bull\/video\/LIOKgW36OHupJJ_O1LemGGey6ngUBhY8\/bull-the-head-of-the-goat\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "7",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2600,
+                "videoPageURL": "\/shows\/bull\/video\/LIOKgW36OHupJJ_O1LemGGey6ngUBhY8\/bull-the-head-of-the-goat\/",
+                "videoTitle": "Bull - The Head of the Goat",
+                "label": "The Head of the Goat",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 13,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/LIOKgW36OHupJJ_O1LemGGey6ngUBhY8\/bull-the-head-of-the-goat\/",
+            "episode_title": "The Head of the Goat",
+            "feature": "2021-01-25T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/01\/20\/1846109251940\/CBS_BULL_507_NO_LOGO_445832_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|13|Bull|The Head of the Goat|5|7|Jan 25, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep7|Jan 25, 2021|The Head of the Goat|19|pay|PAID|PREMIUM|",
+            "displayTitle": "The Head of the Goat",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - To Save a Life",
+            "series_title": "Bull",
+            "label": "To Save a Life",
+            "content_id": "YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp",
+            "airdate": "Jan 18, 2021",
+            "airdate_ts": 1611025200000,
+            "airdate_iso": "2021-01-18T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "6",
+            "duration": "43min ",
+            "duration_raw": 2569,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/14\/1844069955883\/CBS_BULL_506_NO_LOGO_738684_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/14\/1844069955883\/CBS_BULL_506_NO_LOGO_738684_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/14\/1844069955883\/CBS_BULL_506_NO_LOGO_738684_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/14\/1844069955883\/CBS_BULL_506_NO_LOGO_738684_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/01\/14\/1844069955883\/CBS_BULL_506_NO_LOGO_738684_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp\/bull-to-save-a-life\/",
+            "app_url": "\/shows\/bull\/video\/YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1844074051584,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-01-18T19:00:00-08:00",
+                "airdate_tv": "2021-01-18",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp",
+                "contentUrl": "\/shows\/bull\/video\/YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp\/bull-to-save-a-life\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "6",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2569,
+                "videoPageURL": "\/shows\/bull\/video\/YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp\/bull-to-save-a-life\/",
+                "videoTitle": "Bull - To Save a Life",
+                "label": "To Save a Life",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 14,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/YwErKwyNLlmrBFe9vfPkxVsA8ijAD4yp\/bull-to-save-a-life\/",
+            "episode_title": "To Save a Life",
+            "feature": "2021-01-18T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2021\/01\/14\/1844069955883\/CBS_BULL_506_NO_LOGO_738684_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|14|Bull|To Save a Life|5|6|Jan 18, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep6|Jan 18, 2021|To Save a Life|19|pay|PAID|PREMIUM|",
+            "displayTitle": "To Save a Life",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Fallen Idols",
+            "series_title": "Bull",
+            "label": "Fallen Idols",
+            "content_id": "YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ",
+            "airdate": "Jan 04, 2021",
+            "airdate_ts": 1609815600000,
+            "airdate_iso": "2021-01-04T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "5",
+            "duration": "43min ",
+            "duration_raw": 2599,
+            "rating": "TV-14 D, V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/22\/1835814467907\/CBS_BULL_505_NO_LOGO_399120_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/22\/1835814467907\/CBS_BULL_505_NO_LOGO_399120_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/22\/1835814467907\/CBS_BULL_505_NO_LOGO_399120_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/22\/1835814467907\/CBS_BULL_505_NO_LOGO_399120_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/22\/1835814467907\/CBS_BULL_505_NO_LOGO_399120_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ\/bull-fallen-idols\/",
+            "app_url": "\/shows\/bull\/video\/YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1835817539523,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2021-01-04T19:00:00-08:00",
+                "airdate_tv": "2021-01-04",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ",
+                "contentUrl": "\/shows\/bull\/video\/YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ\/bull-fallen-idols\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "5",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2599,
+                "videoPageURL": "\/shows\/bull\/video\/YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ\/bull-fallen-idols\/",
+                "videoTitle": "Bull - Fallen Idols",
+                "label": "Fallen Idols",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 15,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/YSjbnH9xKGEQHLVetH_f4Gd0_StXelpJ\/bull-fallen-idols\/",
+            "episode_title": "Fallen Idols",
+            "feature": "2021-01-04T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2020\/12\/22\/1835814467907\/CBS_BULL_505_NO_LOGO_399120_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|15|Bull|Fallen Idols|5|5|Jan 04, 2021|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep5|Jan 04, 2021|Fallen Idols|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Fallen Idols",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - The Ex Factor",
+            "series_title": "Bull",
+            "label": "The Ex Factor",
+            "content_id": "G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx",
+            "airdate": "Dec 14, 2020",
+            "airdate_ts": 1608001200000,
+            "airdate_iso": "2020-12-14T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "4",
+            "duration": "43min ",
+            "duration_raw": 2590,
+            "rating": "TV-14 D, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/08\/1829237827779\/CBS_BULL_504_NO_LOGO_394024_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/08\/1829237827779\/CBS_BULL_504_NO_LOGO_394024_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/08\/1829237827779\/CBS_BULL_504_NO_LOGO_394024_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/08\/1829237827779\/CBS_BULL_504_NO_LOGO_394024_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/12\/08\/1829237827779\/CBS_BULL_504_NO_LOGO_394024_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx\/bull-the-ex-factor\/",
+            "app_url": "\/shows\/bull\/video\/G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1830783043655,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2020-12-14T19:00:00-08:00",
+                "airdate_tv": "2020-12-14",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx",
+                "contentUrl": "\/shows\/bull\/video\/G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx\/bull-the-ex-factor\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "4",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2590,
+                "videoPageURL": "\/shows\/bull\/video\/G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx\/bull-the-ex-factor\/",
+                "videoTitle": "Bull - The Ex Factor",
+                "label": "The Ex Factor",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 16,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/G3JKEm0q32LyZDSDiU6c1Q_L_8kvD3Xx\/bull-the-ex-factor\/",
+            "episode_title": "The Ex Factor",
+            "feature": "2020-12-14T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2020\/12\/08\/1829237827779\/CBS_BULL_504_NO_LOGO_394024_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|16|Bull|The Ex Factor|5|4|Dec 14, 2020|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep4|Dec 14, 2020|The Ex Factor|19|pay|PAID|PREMIUM|",
+            "displayTitle": "The Ex Factor",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - Prison Break",
+            "series_title": "Bull",
+            "label": "Prison Break",
+            "content_id": "ujs_zSz8Mfh32x8agape_AZMcBYCC_7D",
+            "airdate": "Nov 30, 2020",
+            "airdate_ts": 1606791600000,
+            "airdate_iso": "2020-11-30T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "3",
+            "duration": "43min ",
+            "duration_raw": 2589,
+            "rating": "TV-14 D, V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "D",
+                    "description": "Suggestive Dialogue"
+                }, {
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/25\/1823934019887\/CBS_BULL_503_NO_LOGO_379833_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/25\/1823934019887\/CBS_BULL_503_NO_LOGO_379833_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/25\/1823934019887\/CBS_BULL_503_NO_LOGO_379833_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/25\/1823934019887\/CBS_BULL_503_NO_LOGO_379833_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/25\/1823934019887\/CBS_BULL_503_NO_LOGO_379833_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/ujs_zSz8Mfh32x8agape_AZMcBYCC_7D\/bull-prison-break\/",
+            "app_url": "\/shows\/bull\/video\/ujs_zSz8Mfh32x8agape_AZMcBYCC_7D\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1823934531769,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2020-11-30T19:00:00-08:00",
+                "airdate_tv": "2020-11-30",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "ujs_zSz8Mfh32x8agape_AZMcBYCC_7D",
+                "contentUrl": "\/shows\/bull\/video\/ujs_zSz8Mfh32x8agape_AZMcBYCC_7D\/bull-prison-break\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "3",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 D, V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "D",
+                        "description": "Suggestive Dialogue"
+                    }, {
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2589,
+                "videoPageURL": "\/shows\/bull\/video\/ujs_zSz8Mfh32x8agape_AZMcBYCC_7D\/bull-prison-break\/",
+                "videoTitle": "Bull - Prison Break",
+                "label": "Prison Break",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 17,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/ujs_zSz8Mfh32x8agape_AZMcBYCC_7D\/bull-prison-break\/",
+            "episode_title": "Prison Break",
+            "feature": "2020-11-30T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2020\/11\/25\/1823934019887\/CBS_BULL_503_NO_LOGO_379833_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|17|Bull|Prison Break|5|3|Nov 30, 2020|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep3|Nov 30, 2020|Prison Break|19|pay|PAID|PREMIUM|",
+            "displayTitle": "Prison Break",
+            "lockLevel": "subscribe"
+        }, {
+            "type": "Full Episode",
+            "title": "Bull - The Great Divide",
+            "series_title": "Bull",
+            "label": "The Great Divide",
+            "content_id": "dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI",
+            "airdate": "Nov 23, 2020",
+            "airdate_ts": 1606186800000,
+            "airdate_iso": "2020-11-23T19:00:00-08:00",
+            "expiredate_raw": null,
+            "season_number": "5",
+            "episode_number": "2",
+            "duration": "43min ",
+            "duration_raw": 2602,
+            "rating": "TV-14 V, L",
+            "regionalRatings": {
+                "region": "US",
+                "rating": "TV-14",
+                "disclaimer": null,
+                "subratings": [{
+                    "code": "L",
+                    "description": "Coarse Language"
+                }, {
+                    "code": "V",
+                    "description": "Violence"
+                }],
+                "consumerAdvice": null,
+                "ratingIcon": null
+            },
+            "description": "",
+            "thumb": {
+                "large": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/18\/1821176387602\/CBS_BULL_502_NO_LOGO_373659_1920x1080.jpg",
+                "small": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/18\/1821176387602\/CBS_BULL_502_NO_LOGO_373659_1920x1080.jpg",
+                "640x360": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/18\/1821176387602\/CBS_BULL_502_NO_LOGO_373659_1920x1080.jpg",
+                "640x480": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/18\/1821176387602\/CBS_BULL_502_NO_LOGO_373659_1920x1080.jpg",
+                "1400x2100": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2020\/11\/18\/1821176387602\/CBS_BULL_502_NO_LOGO_373659_1920x1080.jpg",
+                "poster": null
+            },
+            "url": "\/shows\/bull\/video\/dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI\/bull-the-great-divide\/",
+            "app_url": "\/shows\/bull\/video\/dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI\/",
+            "amazon_est_url": "",
+            "itunes_est_url": "",
+            "streaming_url": "",
+            "live_streaming_url": "",
+            "tms_program_id": "",
+            "show_id": null,
+            "asset_type": "",
+            "status": "PREMIUM",
+            "expiry_date": "",
+            "is_paid_content": true,
+            "ios_available_status": "",
+            "ios_available_date": "",
+            "android_available_status": "",
+            "android_available_date": "",
+            "tracking_media_id": 1821173827937,
+            "signature": null,
+            "media_type": null,
+            "vtag": null,
+            "is_live": false,
+            "medTime": 0,
+            "genre": "Drama",
+            "metaData": {
+                "airdate_iso": "2020-11-23T19:00:00-08:00",
+                "airdate_tv": "2020-11-23",
+                "assetType": "",
+                "brand": "CBS",
+                "mediaType": null,
+                "contentId": "dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI",
+                "contentUrl": "\/shows\/bull\/video\/dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI\/bull-the-great-divide\/",
+                "endCreditsChapterTime": null,
+                "episodeNumber": "2",
+                "ESTURLs": {
+                    "amazon": "",
+                    "iTunes": ""
+                },
+                "excludeOztam": null,
+                "fullEpisode": true,
+                "isServiceAllowed": false,
+                "oztamMediaId": null,
+                "pid": null,
+                "daistreamKey": null,
+                "previewImageURL": null,
+                "rating": "TV-14 V, L",
+                "regionalRatings": [{
+                    "region": "US",
+                    "rating": "TV-14",
+                    "disclaimer": null,
+                    "subratings": [{
+                        "code": "L",
+                        "description": "Coarse Language"
+                    }, {
+                        "code": "V",
+                        "description": "Violence"
+                    }],
+                    "consumerAdvice": null,
+                    "ratingIcon": null
+                }],
+                "seasonNumber": "5",
+                "seriesTitle": "Bull",
+                "showPageURL": "shows\/bull\/video",
+                "subscriptionLevel": "PAID",
+                "thumbnail": null,
+                "thumbnailSheet": null,
+                "tvRatingFlag": true,
+                "videoLength": 2602,
+                "videoPageURL": "\/shows\/bull\/video\/dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI\/bull-the-great-divide\/",
+                "videoTitle": "Bull - The Great Divide",
+                "label": "The Great Divide",
+                "videoProperties": ["Branded"],
+                "playbackEvents": null
+            },
+            "brand": "CBS",
+            "videoProperties": ["Branded"],
+            "availableForProfileTypes": ["ADULT"],
+            "primaryCategoryName": "",
+            "playbackEvents": null,
+            "media_content_type": "Full Episode",
+            "mpd_url": null,
+            "license_url": null,
+            "closed_captions": null,
+            "positionNum": 18,
+            "is_protected": true,
+            "drm": false,
+            "raw_url": "\/video\/dLFhKOt72qCHSwgbTGOvN8GLVVHZmZOI\/bull-the-great-divide\/",
+            "episode_title": "The Great Divide",
+            "feature": "2020-11-23T19:00:00-08:00",
+            "pubdate_iso": null,
+            "thumbUrl": "https:\/\/thumbnails.cbsig.net\/_x\/w400\/CBS_Production_Entertainment_VMS\/2020\/11\/18\/1821176387602\/CBS_BULL_502_NO_LOGO_373659_1920x1080.jpg",
+            "isUserSubscriber": false,
+            "aaLink": "Full Episodes||play|18|Bull|The Great Divide|5|2|Nov 23, 2020|vod:full-episodes||||p|1",
+            "dataTracking": "|Bull|S5|Ep2|Nov 23, 2020|The Great Divide|19|pay|PAID|PREMIUM|",
+            "displayTitle": "The Great Divide",
+            "lockLevel": "subscribe"
+        }],
+        "total": 106
+    },
+    "success": true
+}
+
+----------------------------------------
+// filter to only include free content:
+
+data = data.result.data
+       .filter(function(video){
+         return (video.type === 'Full Episode') && video.url && !video.is_paid_content && (video.status === 'AVAILABLE') && (video.lockLevel === 'none')
+       })
+       .map(function(video){
+         return {
+           url:          video.url,
+           season:       video.season_number  || 0,
+           episode:      video.episode_number || 0,
+           duration_sec: video.duration_raw   || 0,
+           title:        video.displayTitle || video.episode_title || video.label || video.title,
+           description:  video.description
+         }
+       })
+
+console.log(JSON.stringify(data, null, 4))
+
+----------------------------------------
+// result of filter:
+
+[
+    {
+        "url": "/shows/bull/video/iMRTPRbQm1p87Yhy_4Jq8apy5380wfZY/bull-bull-undone/",
+        "season": "6",
+        "episode": "3",
+        "duration_sec": 2547,
+        "title": "Bull Undone",
+        "description": ""
+    },
+    {
+        "url": "/shows/bull/video/oVBFrXeuC_67BvrgdVg7mgTEHE_eK8Vb/bull-espionage/",
+        "season": "6",
+        "episode": "2",
+        "duration_sec": 2602,
+        "title": "Espionage",
+        "description": ""
+    },
+    {
+        "url": "/shows/bull/video/TUT_4UVB87huHEOfPCjMkxOW_Xe1hNWw/bull-gone/",
+        "season": "6",
+        "episode": "1",
+        "duration_sec": 2526,
+        "title": "Gone",
+        "description": ""
+    }
+]
+
+--------------------------------------------------------------------------------
+// view-source:https://www.cbs.com/shows/magnum-pi/video/OQSxxjO_NXa_haEzJneCS3winoGXoHlD/magnum-p-i-island-vibes/
+
+<script>
+var presetPlayerParams = JSON.parse('{"partner":"cbs","autoPlayVid":true,"onReady":"onSmartTagReady","jsNS":"smartTagAPI","callback":"smartTagAPI.tagCallback","PINGateNS":"smartTagAPI.PINGateNS","castNS":"smartTagAPI.CastNS","skinNS":"smartTagAPI.SkinNS","forceJS":true,"chromecast":true,"casting":false,"bint":10,"usesTealium":true,"grestime":0,"userStatus":"anon","userCountry":"us","testBucket":"","freeWheelAds":true,"dai":false,"isAffiliateFeed":false,"adBlockerCallback":"pollABState","pinCheck":false,"_contentID":"OQSxxjO_NXa_haEzJneCS3winoGXoHlD","pid":"xxFktDqXViry","isPaidContent":false,"sig":null,"cpPre":true,"contPlay":true}');
+
+(function() {
+    new CBSPlayer.FreeWheelFMS(presetPlayerParams).configure();
+    var player = new CBSPlayer.SmartTagPlayer(presetPlayerParams);
+
+
+    // don't track ad calls on "Kids" content
+    player.paramsVO.adCallParams = {
+        standardParams: {
+            tfcd: 0
+        }
+    };
+    player.metaData = {
+        "airdate_iso": "2021-10-01T21:00:00-07:00",
+        "airdate_tv": "2021-10-01",
+        "assetType": "DASH_CENC",
+        "brand": "CBS",
+        "mediaType": "Full Episode",
+        "contentId": "OQSxxjO_NXa_haEzJneCS3winoGXoHlD",
+        "contentUrl": "\/shows\/magnum-pi\/video\/OQSxxjO_NXa_haEzJneCS3winoGXoHlD\/magnum-p-i-island-vibes\/",
+        "endCreditsChapterTime": "43:04",
+        "episodeNumber": "1",
+        "ESTURLs": {
+            "amazon": "",
+            "iTunes": ""
+        },
+        "excludeOztam": null,
+        "fullEpisode": true,
+        "isServiceAllowed": true,
+        "oztamMediaId": null,
+        "pid": "xxFktDqXViry",
+        "daistreamKey": null,
+        "previewImageURL": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/16\/1946614339657\/CBS_MAGNUM_PI_401_1920x1080_862897_1920x1080.jpg",
+        "rating": "TV-14 V",
+        "regionalRatings": [{
+            "region": "US",
+            "rating": "TV-14",
+            "disclaimer": null,
+            "subratings": [{
+                "code": "V",
+                "description": "Violence"
+            }],
+            "consumerAdvice": null,
+            "ratingIcon": null
+        }],
+        "seasonNumber": "4",
+        "seriesTitle": "Magnum P.I.",
+        "showPageURL": "shows\/magnum-pi\/video",
+        "subscriptionLevel": "FREE",
+        "thumbnail": {
+            "height": 1080,
+            "width": 1920,
+            "assetType": "Thumbnail",
+            "URL": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/16\/1946614339657\/CBS_MAGNUM_PI_401_1920x1080_862897_1920x1080.jpg"
+        },
+        "thumbnailSheet": {
+            "height": 126,
+            "width": 58464,
+            "assetType": "ThumbSheet",
+            "URL": "https:\/\/thumbnails.cbsig.net\/CBS_Production_Entertainment_VMS\/2021\/09\/16\/1946614339657\/CBS_MAGNUM_PI_401_FIX_PRORES_2398_862896_vr_cs_224x126_10_261.jpg"
+        },
+        "tvRatingFlag": true,
+        "videoLength": 2609,
+        "videoPageURL": "\/shows\/magnum-pi\/video\/OQSxxjO_NXa_haEzJneCS3winoGXoHlD\/magnum-p-i-island-vibes\/",
+        "videoTitle": "Magnum P. I. - Island Vibes",
+        "label": "Island Vibes",
+        "videoProperties": ["Branded"],
+        "playbackEvents": {
+            "endCreditChapterTimeMs": 2584000,
+            "previewStartTimeMs": null,
+            "previewEndTimeMs": null,
+            "openCreditEndTimeMs": 524000,
+            "openCreditStartTime": 506000
+        }
+    };
+    player.tms_program_id = "EP029715370058";
+    // Set player.drm here/inline unless promise for client-side AJAX
+    if (!window.CBS.Registry.drmPromise) {
+        player.drm = {
+            "enabled": true,
+            "sessionId": "",
+            "ticket": "",
+            "name": "Widevine",
+            "widevine": {
+                "url": "https:\/\/cbsi.live.ott.irdeto.com\/widevine\/getlicense?CrmId=cbsi&AccountId=cbsi&SubContentType=Default&ContentId=OQSxxjO_NXa_haEzJneCS3winoGXoHlD",
+                "header": {
+                    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsImtpZCI6IjNkNjg4NGJmLWViMDktNDA1Zi1hOWZjLWU0NGE1NmY3NjZiNiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhbm9ueW1vdXNfVVMiLCJlbnQiOlt7ImJpZCI6IkFsbEFjY2Vzc01haW4iLCJlcGlkIjo3fV0sImlhdCI6MTYzNDk0ODEzMywiZXhwIjoxNjM0OTU1MzMzLCJpc3MiOiJjYnMiLCJhaWQiOiJjYnNpIiwianRpIjoiNDc3ZDExMTYtMzVjMy00MWYzLTk4NmEtZGJlYTliNDM2ZjJiIn0.pTacE4XDy1kY0v4jL3Qt3Vaj2OMpCvzq4antWwcOkMI"
+                }
+            }
+        };
+    }
+    player.enableCP = true;
+    player.showId = 61456421;
+
+    player.baseUrl = "/shows/magnum-pi/";
+
+    player.init();
+})();
+</script>
+
+--------------------------------------------------------------------------------
+// https://link.theplatform.com/s/dJ5BDC/xxFktDqXViry?format=SMIL&manifest=m3u&Tracking=true&mbr=true
+
+<smil xmlns="http://www.w3.org/2005/SMIL21/Language">
+<head>
+</head>
+<body>
+<seq>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="preroll">
+	</ref>
+<switch>
+	<video src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" system-bitrate="1000" height="1440" width="1280"/>
+	<ref src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" title="Magnum P. I. - Island Vibes" abstract="As Magnum tries to keep his new relationship a secret and handles cases solo while Higgins is away, he is tasked with finding a single mom being hunted by two very dangerous gangs. Also, while Higgins is abroad with Ethan, a misstep forces her to assist an old employer, and Rick gets some bad, but also very, very good news. (TV-14 V)" copyright="CBS, Inc." dur="2609000ms" guid="OQSxxjO_NXa_haEzJneCS3winoGXoHlD" keywords="&quot;Magnum P.I Remake&quot;, &quot;CBS Drama&quot;, &quot;Magnum P.I Series Remake&quot;, &quot;Jay Hernandez&quot;, &quot;
+Perdita Weeks&quot;, &quot;Zachary Knighton&quot;, &quot;Stephen Hill&quot;, &quot;New CBS Drama&quot;, &quot;New CBS Shows&quot;" ratings="urn%3Av-chip:tv-14%20v" provider="CBS Production Entertainment VMS" type="application/dash+xml" height="1440" width="1280" clipBegin="0:00" clipEnd="16:16" security="widevine">
+		<param name="Aired" value="true"/>
+		<param name="CBSGenre" value="Drama"/>
+		<param name="ClosedCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138872224.tt"/>
+		<param name="DynamicStreaming" value="true"/>
+		<param name="Embeddable" value="false"/>
+		<param name="EpisodeFlag" value="true"/>
+		<param name="EpisodeNumber" value="1"/>
+		<param name="Internal" value="false"/>
+		<param name="IsLive" value="false"/>
+		<param name="IsLiveCDN" value=""/>
+		<param name="NoAd" value="false"/>
+		<param name="PrimaryCategory" value="1824668739686"/>
+		<param name="PrimaryCategoryName" value="Primetime Current Season/Magnum PI/Full Episodes"/>
+		<param name="RepeatFlag" value="false"/>
+		<param name="SeasonNumber" value="4"/>
+		<param name="SeriesTitle" value="Magnum P.I."/>
+		<param name="SourcePartner" value="CBS"/>
+		<param name="TVRating" value="true"/>
+		<param name="VTAG" value="/ent/pt/ent/magnum_r/cp;site=entertainment;dpart=primetime;show=magnum_pi;seas=4;feat=full_episodes"/>
+		<param name="artist" value=""/>
+		<param name="contentType" value="Full Episode"/>
+		<param name="dPRAired" value="true"/>
+		<param name="endCreditsChapterTime" value="43:04"/>
+		<param name="excludeNielsenTracking" value="false"/>
+		<param name="isLiveCaptioned" value="false"/>
+		<param name="sMPTE-TTCCURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138870172.xml"/>
+		<param name="webVTTCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138871354.vtt"/>
+		<param name="trackingData" value="aid=2198311517|b=1000|bc=CBSI-NEW|ci=1|cid=1952036931655|d=1634950067828|l=2609000|mediaPid=sefy2kpx4vzE|pd=1633147200000|pid=xxFktDqXViry|prid=10373|pvid=21847452|rid=1957541443867"/>
+	</ref>
+</switch>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="midroll">
+	</ref>
+<switch>
+	<video src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" system-bitrate="1000" height="1440" width="1280"/>
+	<ref src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" title="Magnum P. I. - Island Vibes" abstract="As Magnum tries to keep his new relationship a secret and handles cases solo while Higgins is away, he is tasked with finding a single mom being hunted by two very dangerous gangs. Also, while Higgins is abroad with Ethan, a misstep forces her to assist an old employer, and Rick gets some bad, but also very, very good news. (TV-14 V)" copyright="CBS, Inc." dur="2609000ms" guid="OQSxxjO_NXa_haEzJneCS3winoGXoHlD" keywords="&quot;Magnum P.I Remake&quot;, &quot;CBS Drama&quot;, &quot;Magnum P.I Series Remake&quot;, &quot;Jay Hernandez&quot;, &quot;
+Perdita Weeks&quot;, &quot;Zachary Knighton&quot;, &quot;Stephen Hill&quot;, &quot;New CBS Drama&quot;, &quot;New CBS Shows&quot;" ratings="urn%3Av-chip:tv-14%20v" provider="CBS Production Entertainment VMS" type="application/dash+xml" height="1440" width="1280" clipBegin="16:16" clipEnd="20:44" security="widevine">
+		<param name="Aired" value="true"/>
+		<param name="CBSGenre" value="Drama"/>
+		<param name="ClosedCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138872224.tt"/>
+		<param name="DynamicStreaming" value="true"/>
+		<param name="Embeddable" value="false"/>
+		<param name="EpisodeFlag" value="true"/>
+		<param name="EpisodeNumber" value="1"/>
+		<param name="Internal" value="false"/>
+		<param name="IsLive" value="false"/>
+		<param name="IsLiveCDN" value=""/>
+		<param name="NoAd" value="false"/>
+		<param name="PrimaryCategory" value="1824668739686"/>
+		<param name="PrimaryCategoryName" value="Primetime Current Season/Magnum PI/Full Episodes"/>
+		<param name="RepeatFlag" value="false"/>
+		<param name="SeasonNumber" value="4"/>
+		<param name="SeriesTitle" value="Magnum P.I."/>
+		<param name="SourcePartner" value="CBS"/>
+		<param name="TVRating" value="true"/>
+		<param name="VTAG" value="/ent/pt/ent/magnum_r/cp;site=entertainment;dpart=primetime;show=magnum_pi;seas=4;feat=full_episodes"/>
+		<param name="artist" value=""/>
+		<param name="contentType" value="Full Episode"/>
+		<param name="dPRAired" value="true"/>
+		<param name="endCreditsChapterTime" value="43:04"/>
+		<param name="excludeNielsenTracking" value="false"/>
+		<param name="isLiveCaptioned" value="false"/>
+		<param name="sMPTE-TTCCURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138870172.xml"/>
+		<param name="webVTTCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138871354.vtt"/>
+		<param name="trackingData" value="aid=2198311517|b=1000|bc=CBSI-NEW|ci=1|cid=1952036931655|d=1634950067828|l=2609000|mediaPid=sefy2kpx4vzE|pd=1633147200000|pid=xxFktDqXViry|prid=10373|pvid=21847452|rid=1957541443867"/>
+	</ref>
+</switch>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="midroll">
+	</ref>
+<switch>
+	<video src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" system-bitrate="1000" height="1440" width="1280"/>
+	<ref src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" title="Magnum P. I. - Island Vibes" abstract="As Magnum tries to keep his new relationship a secret and handles cases solo while Higgins is away, he is tasked with finding a single mom being hunted by two very dangerous gangs. Also, while Higgins is abroad with Ethan, a misstep forces her to assist an old employer, and Rick gets some bad, but also very, very good news. (TV-14 V)" copyright="CBS, Inc." dur="2609000ms" guid="OQSxxjO_NXa_haEzJneCS3winoGXoHlD" keywords="&quot;Magnum P.I Remake&quot;, &quot;CBS Drama&quot;, &quot;Magnum P.I Series Remake&quot;, &quot;Jay Hernandez&quot;, &quot;
+Perdita Weeks&quot;, &quot;Zachary Knighton&quot;, &quot;Stephen Hill&quot;, &quot;New CBS Drama&quot;, &quot;New CBS Shows&quot;" ratings="urn%3Av-chip:tv-14%20v" provider="CBS Production Entertainment VMS" type="application/dash+xml" height="1440" width="1280" clipBegin="20:44" clipEnd="26:23" security="widevine">
+		<param name="Aired" value="true"/>
+		<param name="CBSGenre" value="Drama"/>
+		<param name="ClosedCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138872224.tt"/>
+		<param name="DynamicStreaming" value="true"/>
+		<param name="Embeddable" value="false"/>
+		<param name="EpisodeFlag" value="true"/>
+		<param name="EpisodeNumber" value="1"/>
+		<param name="Internal" value="false"/>
+		<param name="IsLive" value="false"/>
+		<param name="IsLiveCDN" value=""/>
+		<param name="NoAd" value="false"/>
+		<param name="PrimaryCategory" value="1824668739686"/>
+		<param name="PrimaryCategoryName" value="Primetime Current Season/Magnum PI/Full Episodes"/>
+		<param name="RepeatFlag" value="false"/>
+		<param name="SeasonNumber" value="4"/>
+		<param name="SeriesTitle" value="Magnum P.I."/>
+		<param name="SourcePartner" value="CBS"/>
+		<param name="TVRating" value="true"/>
+		<param name="VTAG" value="/ent/pt/ent/magnum_r/cp;site=entertainment;dpart=primetime;show=magnum_pi;seas=4;feat=full_episodes"/>
+		<param name="artist" value=""/>
+		<param name="contentType" value="Full Episode"/>
+		<param name="dPRAired" value="true"/>
+		<param name="endCreditsChapterTime" value="43:04"/>
+		<param name="excludeNielsenTracking" value="false"/>
+		<param name="isLiveCaptioned" value="false"/>
+		<param name="sMPTE-TTCCURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138870172.xml"/>
+		<param name="webVTTCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138871354.vtt"/>
+		<param name="trackingData" value="aid=2198311517|b=1000|bc=CBSI-NEW|ci=1|cid=1952036931655|d=1634950067828|l=2609000|mediaPid=sefy2kpx4vzE|pd=1633147200000|pid=xxFktDqXViry|prid=10373|pvid=21847452|rid=1957541443867"/>
+	</ref>
+</switch>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="midroll">
+	</ref>
+<switch>
+	<video src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" system-bitrate="1000" height="1440" width="1280"/>
+	<ref src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" title="Magnum P. I. - Island Vibes" abstract="As Magnum tries to keep his new relationship a secret and handles cases solo while Higgins is away, he is tasked with finding a single mom being hunted by two very dangerous gangs. Also, while Higgins is abroad with Ethan, a misstep forces her to assist an old employer, and Rick gets some bad, but also very, very good news. (TV-14 V)" copyright="CBS, Inc." dur="2609000ms" guid="OQSxxjO_NXa_haEzJneCS3winoGXoHlD" keywords="&quot;Magnum P.I Remake&quot;, &quot;CBS Drama&quot;, &quot;Magnum P.I Series Remake&quot;, &quot;Jay Hernandez&quot;, &quot;
+Perdita Weeks&quot;, &quot;Zachary Knighton&quot;, &quot;Stephen Hill&quot;, &quot;New CBS Drama&quot;, &quot;New CBS Shows&quot;" ratings="urn%3Av-chip:tv-14%20v" provider="CBS Production Entertainment VMS" type="application/dash+xml" height="1440" width="1280" clipBegin="26:23" clipEnd="32:26" security="widevine">
+		<param name="Aired" value="true"/>
+		<param name="CBSGenre" value="Drama"/>
+		<param name="ClosedCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138872224.tt"/>
+		<param name="DynamicStreaming" value="true"/>
+		<param name="Embeddable" value="false"/>
+		<param name="EpisodeFlag" value="true"/>
+		<param name="EpisodeNumber" value="1"/>
+		<param name="Internal" value="false"/>
+		<param name="IsLive" value="false"/>
+		<param name="IsLiveCDN" value=""/>
+		<param name="NoAd" value="false"/>
+		<param name="PrimaryCategory" value="1824668739686"/>
+		<param name="PrimaryCategoryName" value="Primetime Current Season/Magnum PI/Full Episodes"/>
+		<param name="RepeatFlag" value="false"/>
+		<param name="SeasonNumber" value="4"/>
+		<param name="SeriesTitle" value="Magnum P.I."/>
+		<param name="SourcePartner" value="CBS"/>
+		<param name="TVRating" value="true"/>
+		<param name="VTAG" value="/ent/pt/ent/magnum_r/cp;site=entertainment;dpart=primetime;show=magnum_pi;seas=4;feat=full_episodes"/>
+		<param name="artist" value=""/>
+		<param name="contentType" value="Full Episode"/>
+		<param name="dPRAired" value="true"/>
+		<param name="endCreditsChapterTime" value="43:04"/>
+		<param name="excludeNielsenTracking" value="false"/>
+		<param name="isLiveCaptioned" value="false"/>
+		<param name="sMPTE-TTCCURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138870172.xml"/>
+		<param name="webVTTCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138871354.vtt"/>
+		<param name="trackingData" value="aid=2198311517|b=1000|bc=CBSI-NEW|ci=1|cid=1952036931655|d=1634950067828|l=2609000|mediaPid=sefy2kpx4vzE|pd=1633147200000|pid=xxFktDqXViry|prid=10373|pvid=21847452|rid=1957541443867"/>
+	</ref>
+</switch>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="midroll">
+	</ref>
+<switch>
+	<video src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" system-bitrate="1000" height="1440" width="1280"/>
+	<ref src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" title="Magnum P. I. - Island Vibes" abstract="As Magnum tries to keep his new relationship a secret and handles cases solo while Higgins is away, he is tasked with finding a single mom being hunted by two very dangerous gangs. Also, while Higgins is abroad with Ethan, a misstep forces her to assist an old employer, and Rick gets some bad, but also very, very good news. (TV-14 V)" copyright="CBS, Inc." dur="2609000ms" guid="OQSxxjO_NXa_haEzJneCS3winoGXoHlD" keywords="&quot;Magnum P.I Remake&quot;, &quot;CBS Drama&quot;, &quot;Magnum P.I Series Remake&quot;, &quot;Jay Hernandez&quot;, &quot;
+Perdita Weeks&quot;, &quot;Zachary Knighton&quot;, &quot;Stephen Hill&quot;, &quot;New CBS Drama&quot;, &quot;New CBS Shows&quot;" ratings="urn%3Av-chip:tv-14%20v" provider="CBS Production Entertainment VMS" type="application/dash+xml" height="1440" width="1280" clipBegin="32:26" clipEnd="43:02" security="widevine">
+		<param name="Aired" value="true"/>
+		<param name="CBSGenre" value="Drama"/>
+		<param name="ClosedCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138872224.tt"/>
+		<param name="DynamicStreaming" value="true"/>
+		<param name="Embeddable" value="false"/>
+		<param name="EpisodeFlag" value="true"/>
+		<param name="EpisodeNumber" value="1"/>
+		<param name="Internal" value="false"/>
+		<param name="IsLive" value="false"/>
+		<param name="IsLiveCDN" value=""/>
+		<param name="NoAd" value="false"/>
+		<param name="PrimaryCategory" value="1824668739686"/>
+		<param name="PrimaryCategoryName" value="Primetime Current Season/Magnum PI/Full Episodes"/>
+		<param name="RepeatFlag" value="false"/>
+		<param name="SeasonNumber" value="4"/>
+		<param name="SeriesTitle" value="Magnum P.I."/>
+		<param name="SourcePartner" value="CBS"/>
+		<param name="TVRating" value="true"/>
+		<param name="VTAG" value="/ent/pt/ent/magnum_r/cp;site=entertainment;dpart=primetime;show=magnum_pi;seas=4;feat=full_episodes"/>
+		<param name="artist" value=""/>
+		<param name="contentType" value="Full Episode"/>
+		<param name="dPRAired" value="true"/>
+		<param name="endCreditsChapterTime" value="43:04"/>
+		<param name="excludeNielsenTracking" value="false"/>
+		<param name="isLiveCaptioned" value="false"/>
+		<param name="sMPTE-TTCCURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138870172.xml"/>
+		<param name="webVTTCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138871354.vtt"/>
+		<param name="trackingData" value="aid=2198311517|b=1000|bc=CBSI-NEW|ci=1|cid=1952036931655|d=1634950067828|l=2609000|mediaPid=sefy2kpx4vzE|pd=1633147200000|pid=xxFktDqXViry|prid=10373|pvid=21847452|rid=1957541443867"/>
+	</ref>
+</switch>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="midroll">
+	</ref>
+<switch>
+	<video src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" system-bitrate="1000" height="1440" width="1280"/>
+	<ref src="https://vod-gcs-cedexis.cbsaavideo.com/intl_vms/2021/09/16/1946614339657/862987_cenc_dash/stream.mpd" title="Magnum P. I. - Island Vibes" abstract="As Magnum tries to keep his new relationship a secret and handles cases solo while Higgins is away, he is tasked with finding a single mom being hunted by two very dangerous gangs. Also, while Higgins is abroad with Ethan, a misstep forces her to assist an old employer, and Rick gets some bad, but also very, very good news. (TV-14 V)" copyright="CBS, Inc." dur="2609000ms" guid="OQSxxjO_NXa_haEzJneCS3winoGXoHlD" keywords="&quot;Magnum P.I Remake&quot;, &quot;CBS Drama&quot;, &quot;Magnum P.I Series Remake&quot;, &quot;Jay Hernandez&quot;, &quot;
+Perdita Weeks&quot;, &quot;Zachary Knighton&quot;, &quot;Stephen Hill&quot;, &quot;New CBS Drama&quot;, &quot;New CBS Shows&quot;" ratings="urn%3Av-chip:tv-14%20v" provider="CBS Production Entertainment VMS" type="application/dash+xml" height="1440" width="1280" clipBegin="43:02" security="widevine">
+		<param name="Aired" value="true"/>
+		<param name="CBSGenre" value="Drama"/>
+		<param name="ClosedCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138872224.tt"/>
+		<param name="DynamicStreaming" value="true"/>
+		<param name="Embeddable" value="false"/>
+		<param name="EpisodeFlag" value="true"/>
+		<param name="EpisodeNumber" value="1"/>
+		<param name="Internal" value="false"/>
+		<param name="IsLive" value="false"/>
+		<param name="IsLiveCDN" value=""/>
+		<param name="NoAd" value="false"/>
+		<param name="PrimaryCategory" value="1824668739686"/>
+		<param name="PrimaryCategoryName" value="Primetime Current Season/Magnum PI/Full Episodes"/>
+		<param name="RepeatFlag" value="false"/>
+		<param name="SeasonNumber" value="4"/>
+		<param name="SeriesTitle" value="Magnum P.I."/>
+		<param name="SourcePartner" value="CBS"/>
+		<param name="TVRating" value="true"/>
+		<param name="VTAG" value="/ent/pt/ent/magnum_r/cp;site=entertainment;dpart=primetime;show=magnum_pi;seas=4;feat=full_episodes"/>
+		<param name="artist" value=""/>
+		<param name="contentType" value="Full Episode"/>
+		<param name="dPRAired" value="true"/>
+		<param name="endCreditsChapterTime" value="43:04"/>
+		<param name="excludeNielsenTracking" value="false"/>
+		<param name="isLiveCaptioned" value="false"/>
+		<param name="sMPTE-TTCCURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138870172.xml"/>
+		<param name="webVTTCaptionURL" value="https://cc.cbs.com/closedcaption/CBS_Production_Entertainment_VMS/949/103/OQSxxjO_NXa_haEzJneCS3winoGXoHlD_1633138871354.vtt"/>
+		<param name="trackingData" value="aid=2198311517|b=1000|bc=CBSI-NEW|ci=1|cid=1952036931655|d=1634950067828|l=2609000|mediaPid=sefy2kpx4vzE|pd=1633147200000|pid=xxFktDqXViry|prid=10373|pvid=21847452|rid=1957541443867"/>
+	</ref>
+</switch>
+	<ref src="https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&amp;iu=/8264/vaw-can/desktop/test&amp;ciu_szs=300x60,728x90&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vmap1&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;correlator=[timestamp]&amp;cust_params=vid%3DOQSxxjO_NXa_haEzJneCS3winoGXoHlD%26partner%3DPARTNER&amp;vid=OQSxxjO_NXa_haEzJneCS3winoGXoHlD&amp;cmsid=2289" no-skip="true" tags="postroll">
+	</ref>
+</seq>
+</body>
+</smil>
+
+--------------------------------------------------------------------------------
+
+summary:
+
+* webpage source for video includes:
+  - DRM scheme
+  - DRM URL
+  - DRM headers
+  - "pid"
+
+* "pid" is needed to generate URL for XHR having a response that includes:
+  - DASH URL
+  - webVTT captions URL
+
+notes:
+
+* the ExoAirPlay sender webpage doesn't (yet) support the ability to embed DRM headers in URL hash to prepopulate data in form
+
+--------------------------------------------------------------------------------
