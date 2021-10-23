@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CBS
 // @description  Watch videos in external player.
-// @version      1.0.0
+// @version      1.1.0
 // @match        *://cbs.com/*
 // @match        *://*.cbs.com/*
 // @icon         https://www.cbs.com/favicon.ico
@@ -19,6 +19,9 @@
 // ----------------------------------------------------------------------------- constants
 
 var user_options = {
+  "common": {
+    "rewrite_show_pages": true,
+  },
   "webmonkey": {
     "post_intent_redirect_to_url":  "about:blank"
   },
@@ -53,8 +56,7 @@ var download_text = function(url, headers, callback) {
           var text_data = xhr.responseText
           callback(text_data)
         }
-        catch(error) {
-        }
+        catch(e) {}
       }
     }
   }
@@ -258,13 +260,72 @@ var process_video = function() {
   catch(e1) {}
 }
 
+// ----------------------------------------------------------------------------- rewrite DOM to display all available full-episodes for show
+
+var pad_zeros = function(num, len) {
+  var str = num.toString()
+  var pad = len - str.length
+  if (pad > 0)
+    str = ('0').repeat(pad) + str
+  return str
+}
+
+var rewrite_show_page = function() {
+  if (!user_options.common.rewrite_show_pages) return
+
+  var xhr_url = unsafeWindow.location.href.replace(new RegExp('[/]+$'), '') + '/xhr/episodes/page/0/size/18/xs/0/season/'
+
+  download_text(xhr_url, null, function(json){
+    try {
+      var html, video
+      var data = JSON.parse(json)
+
+      if (data && (typeof data === 'object') && data.success) {
+        data = data.result.data
+               .filter(function(video){
+                 return (video.type === 'Full Episode') && video.url && !video.is_paid_content && (video.status === 'AVAILABLE') && (video.lockLevel === 'none')
+               })
+               .map(function(video){
+                 return {
+                   url:          video.url,
+                   season:       video.season_number  || 0,
+                   episode:      video.episode_number || 0,
+                   duration_sec: video.duration_raw   || 0,
+                   title:        video.displayTitle || video.episode_title || video.label || video.title,
+                   description:  video.description
+                 }
+               })
+
+        if (Array.isArray(data) && data.length) {
+          html = []
+
+          html.push('<ul>')
+          for (var i=0; i < data.length; i++) {
+            video = data[i]
+
+            html.push('<li><a target="_blank" href="' + video.url + '">' + ((video.season && video.episode) ? ('S' + pad_zeros(video.season, 2) + 'E' + pad_zeros(video.episode, 2) + ' ') : '') + video.title + '</a></li>')
+          }
+          html.push('</ul>')
+
+          html = html.join("\n")
+
+          unsafeWindow.document.body.innerHTML = html
+        }
+      }
+    }
+    catch(e) {}
+  })
+}
+
 // ----------------------------------------------------------------------------- bootstrap
 
 var init = function() {
   var pathname = unsafeWindow.location.pathname
   var is_video = (new RegExp('^/shows/[^/]+/video/.+$', 'i')).test(pathname)
+  var is_show  = !is_video && (new RegExp('^/shows/[^/]+/?$', 'i')).test(pathname)
 
   if (is_video) process_video()
+  if (is_show)  rewrite_show_page()
 }
 
 init()
