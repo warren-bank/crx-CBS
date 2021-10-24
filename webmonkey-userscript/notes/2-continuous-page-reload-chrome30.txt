@@ -18442,4 +18442,22 @@
   document.createElement = function(){return null}
 </script
 
+----------------------------------------
+// workaround (more general-purpose):
+
+<script>
+  unsafeWindow.document.close()      // close the current document
+  unsafeWindow.document.open()       // open a new document, which removes all DOM from previous document and cancels all running scripts
+  unsafeWindow.document.write(html)  // add DOM elements to new document
+  unsafeWindow.document.close()
+</script
+
+notes:
+======
+* this approach assumes that there is nothing of any value in the previous document's DOM,
+  which is the case on pages for a show,
+  but not true for pages with a video
+
+* annecdotally, only pages for a show experience this continuous reload issue
+
 --------------------------------------------------------------------------------

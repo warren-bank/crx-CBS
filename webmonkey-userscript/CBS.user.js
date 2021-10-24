@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         CBS
 // @description  Watch videos in external player.
-// @version      1.1.2
+// @version      1.1.3
 // @match        *://cbs.com/*
 // @match        *://*.cbs.com/*
 // @icon         https://www.cbs.com/favicon.ico
-// @run-at       document-start
+// @run-at       document-end
 // @grant        unsafeWindow
 // @homepage     https://github.com/warren-bank/crx-CBS/tree/webmonkey-userscript/es5
 // @supportURL   https://github.com/warren-bank/crx-CBS/issues
@@ -20,37 +20,16 @@
 
 var user_options = {
   "common": {
-    "init_delay":                     250,
-    "prevent_continuous_page_reload": true,
-    "rewrite_show_pages":             true
+    "rewrite_show_pages":           true
   },
   "webmonkey": {
-    "post_intent_redirect_to_url":    "about:blank"
+    "post_intent_redirect_to_url":  "about:blank"
   },
   "greasemonkey": {
-    "redirect_to_webcast_reloaded":   false,  // disable WebCast-Reloaded redirect until DRM headers can be embedded in URL
-    "force_http":                     true,
-    "force_https":                    false
+    "redirect_to_webcast_reloaded": false,  // disable WebCast-Reloaded redirect until DRM headers can be embedded in URL
+    "force_http":                   true,
+    "force_https":                  false
   }
-}
-
-// ----------------------------------------------------------------------------- workarounds
-
-/*
- * continuous page reload
- *   - occurs when cbs.com is loaded in very old web browsers
- *     * including the WebView in Android < 5.0
- *     * Android 4.4 is equivalent to Chrome 30
- *   - is the result of some bit of code calling:
- *       var anchor  = document.createElement("a")
- *       anchor.href = "/"
- *       window.location = anchor.href
- */
-
-var prevent_continuous_page_reload = function() {
-  if (!user_options.common.prevent_continuous_page_reload) return
-
-  unsafeWindow.document.createElement = function(){return null}
 }
 
 // ----------------------------------------------------------------------------- helpers
@@ -73,11 +52,7 @@ var download_text = function(url, headers, callback) {
   xhr.onload = function(e) {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
-        try {
-          var text_data = xhr.responseText
-          callback(text_data)
-        }
-        catch(e) {}
+        callback(xhr.responseText)
       }
     }
   }
@@ -330,7 +305,10 @@ var rewrite_show_page = function() {
 
           html = html.join("\n")
 
-          unsafeWindow.document.body.innerHTML = html
+          unsafeWindow.document.close()
+          unsafeWindow.document.open()
+          unsafeWindow.document.write(html)
+          unsafeWindow.document.close()
         }
       }
     }
@@ -340,26 +318,13 @@ var rewrite_show_page = function() {
 
 // ----------------------------------------------------------------------------- bootstrap
 
-var init_dom = function(is_video, is_show) {
-  if (is_video) process_video()
-  if (is_show)  rewrite_show_page()
-}
-
 var init = function() {
   var pathname = unsafeWindow.location.pathname
   var is_video = (new RegExp('^/shows/[^/]+/video/.+$', 'i')).test(pathname)
   var is_show  = !is_video && (new RegExp('^/shows/[^/]+/?$', 'i')).test(pathname)
 
-  if (is_video || is_show) {
-    prevent_continuous_page_reload()
-
-    unsafeWindow.setTimeout(
-      function(){
-        init_dom(is_video, is_show)
-      },
-      user_options.common.init_delay
-    )
-  }
+  if (is_video) process_video()
+  if (is_show)  rewrite_show_page()
 }
 
 init()
