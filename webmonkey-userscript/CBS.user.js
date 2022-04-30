@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CBS
 // @description  Watch videos in external player.
-// @version      1.1.3
+// @version      1.1.4
 // @match        *://cbs.com/*
 // @match        *://*.cbs.com/*
 // @icon         https://www.cbs.com/favicon.ico
@@ -320,7 +320,7 @@ var rewrite_show_page = function() {
 
 var init = function() {
   var pathname = unsafeWindow.location.pathname
-  var is_video = (new RegExp('^/shows/[^/]+/video/.+$', 'i')).test(pathname)
+  var is_video = (new RegExp('^/shows/(?:[^/]+/)*video/.+$', 'i')).test(pathname)
   var is_show  = !is_video && (new RegExp('^/shows/[^/]+/?$', 'i')).test(pathname)
 
   if (is_video) process_video()
