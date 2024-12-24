@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CBS
 // @description  Watch videos in external player.
-// @version      1.1.4
+// @version      1.1.5
 // @match        *://cbs.com/*
 // @match        *://*.cbs.com/*
 // @icon         https://www.cbs.com/favicon.ico
@@ -213,7 +213,7 @@ var process_video = function() {
     var regex   = {
       whitespace: /[\r\n\t]+/g,
       json_data:  /^.*"pid"\s*:\s*"([^"]+)".*"widevine"\s*:\s*\{\s*"url"\s*:\s*("[^"]+")\s*,\s*"header"\s*:\s*(\{[^\}]+\}).*$/,
-      smil_data:  /^.*?\<video\s+src="([^"]+)".*?\s+type="([^"]+)".*?\<param\s+name="webVTTCaptionURL"\s+value="([^"]*)".*$/
+      smil_data:  /^.*?\<video\s+src="([^"]+)".*?\s+type="([^"]+)".*?\<param\s+name="(?:webVTTCaptionURL|ClosedCaptionURL)"\s+value="([^"]*)".*$/
     }
     var script, matches
 
